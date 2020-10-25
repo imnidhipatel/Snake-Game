@@ -1,2 +1,2 @@
 ## Screenshot
- <img src="/1.png">
+ ![image](1.PNG)
